@@ -8,3 +8,5 @@ class Greeting
   end
 end
 
+greeting = Greeting.new('what\'s up?')
+greeting.exchange
